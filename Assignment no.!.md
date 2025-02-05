@@ -63,7 +63,7 @@ To collect data for a banking model, institutions use multiple sources, ensuring
 
 ###### Collecting the data:
 
->
+> s
 
 ###### Problem Statement:
 
