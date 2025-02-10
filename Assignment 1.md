@@ -15,7 +15,7 @@
 
 In this we have to collect all the data of our users that which product is in hipe and which is not and then after we can train our model so he can recommend the products according to there like and interest.
 Collecting customer reviews and feedback from various sources, including websites, social media, and review platforms, can help train AI models to understand customer preferences and sentiment.Collecting product information, including descriptions, prices, and images, from various sources like manufacturer websites, product catalogs, and e-commerce platforms, can help train AI models to understand product features and characteristics.
-''' https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers ''' We can download the dataset from here so that i can use it to solve the problem
+https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers We can download the dataset from here so that i can use it to solve the problem
 
 ###### Problem Statement:
 
